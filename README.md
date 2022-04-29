@@ -1,0 +1,2 @@
+# KvadratiEXE
+file.exe
